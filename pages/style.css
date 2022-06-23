@@ -15,6 +15,10 @@
     color: orange;
 }
 
+.white-text {
+    color: white;
+}
+
 .header {
     border-bottom: 2px solid orange;
 }
@@ -26,4 +30,16 @@
 .subheader {
     margin-top: 6px;
     color: white;
+}
+
+.cocktail-div {
+    margin-bottom: 10px;
+}
+
+.cocktail-img {
+    max-width: 50%;
+}
+
+.recipe {
+    margin-left: 10px;
 }
