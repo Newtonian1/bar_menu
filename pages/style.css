@@ -1,0 +1,29 @@
+* {
+   background-color: rgb(46, 45, 44); 
+   font-family: Times, serif !important;
+}
+
+.gray-background {
+    background-color: rgb(46, 45, 44);
+}
+
+.btn-default {
+    background-color: orange !important;
+}
+
+.orange-text {
+    color: orange;
+}
+
+.header {
+    border-bottom: 2px solid orange;
+}
+
+.header-content {
+    padding-top: 10px;
+}
+
+.subheader {
+    margin-top: 6px;
+    color: white;
+}
